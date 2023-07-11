@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🧐 Certification
 <div id="badges">
-  <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/37250940" target="_blank">
+  <a href="\https://www.credential.net/a5c7c48b-9be3-4e75-b324-49b05d81cfff#gs.2fxttg" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   </a>
 </div>
