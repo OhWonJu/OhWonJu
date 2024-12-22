@@ -30,7 +30,11 @@ You can click the Preview link to take a look at your changes.
  <br />
 
  <div>
-   <h1>🍽️ Dev Recipes</h1>
+   <h1>
+     <a href="https://dev-recipe.life/blog">
+       🍽️ Dev Recipes
+     </a>
+   </h1>
    <a href="https://dev-recipe.life/blog/afdfb1f2-771d-4dc4-ac3e-b1db61cc9f75">
      <span>Design System pio-essential 개발 여정</span>
    </a>
